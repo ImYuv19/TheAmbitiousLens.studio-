@@ -11,7 +11,7 @@ export const motionProjects: MotionProject[] = [
   },
   {
     id: "motion-2",
-    youtubeUrl: "https://youtube.com/shorts/3JR1yBCJS8w?feature=share"
+    youtubeUrl: "https://youtube.com/shorts/NjhTqHT1sfk?feature=share"
   },
   {
     id: "motion-3",
