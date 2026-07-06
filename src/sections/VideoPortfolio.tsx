@@ -9,14 +9,11 @@ import { shortFormVideos, getYoutubeId, type ShortFormVideo } from '../data/shor
 
 const CATEGORIES = [
   "Normal Talking Head",
+  "Documentary Edit",
   "Gaming",
   "Clean Professional",
-  "Documentary Edit",
   "Storytelling",
-  "Sound Design",
-  "Story & Pacing",
-  "Trading",
-  "more"
+  "Sound Design"
 ] as const;
 
 // 1. Play-On-Demand Card Component for Short Form Videos Grid

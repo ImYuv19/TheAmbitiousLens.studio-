@@ -20,9 +20,5 @@ export const heroVideos: HeroVideo[] = [
   { id: 9, src: "/videos/hero/clip9.mp4" },
   { id: 10, src: "/videos/hero/clip10.mp4" },
   { id: 11, src: "/videos/hero/clip11.mp4" },
-  { id: 12, src: "/videos/hero/clip12.mp4" },
-  { id: 13, src: "/videos/hero/clip13.mp4" },
-  { id: 14, src: "/videos/hero/clip14.mp4" },
-  { id: 15, src: "/videos/hero/clip15.mp4" },
-  { id: 16, src: "/videos/hero/clip16.mp4" }
+  { id: 12, src: "/videos/hero/clip12.mp4" }
 ];

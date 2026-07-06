@@ -3,15 +3,21 @@ export interface WorkVideo {
   title: string;
   youtubeUrl: string;
   thumbnail?: string; // Optional custom thumbnail URL
-  category: "Normal Talking Head" | "Gaming" | "Clean Professional" | "Documentary Edit" | "Storytelling" | "Sound Design" | "Story & Pacing" | "Trading" | "more";
+  category: "Normal Talking Head" | "Gaming" | "Clean Professional" | "Documentary Edit" | "Storytelling" | "Sound Design";
 }
 
 export const workVideos: WorkVideo[] = [
   {
     id: "work-talking-head",
-    title: "Minimalist Talking Head Interview Edit",
+    title: "talking head motion graphics",
     youtubeUrl: "https://www.youtube.com/embed/nUb6kA8Em-Y?si=Mm8oMvvXQSBpupGn",
     category: "Normal Talking Head"
+  },
+  {
+    id: "work-doc-edit",
+    title: "CoCa Cola Documentary Edit ",
+    youtubeUrl: "https://www.youtube.com/embed/gFS5nlV4jYg?si=OVigU-LGYigw1S3M",
+    category: "Documentary Edit"
   },
   {
     id: "work-gaming",
@@ -22,15 +28,9 @@ export const workVideos: WorkVideo[] = [
   },
   {
     id: "work-clean-prof",
-    title: "Premium Corporate Brand Identity Showcase",
+    title: "my edit war winning video",
     youtubeUrl: "https://www.youtube.com/embed/orUZnmqmRIY?si=Y4ZwcKzGab3I0AB5",
     category: "Clean Professional"
-  },
-  {
-    id: "work-doc-edit",
-    title: "Highlands Documentary Visual Flow Study",
-    youtubeUrl: "https://youtu.be/9fSFKu0QcQA",
-    category: "Documentary Edit"
   },
   {
     id: "work-storytelling",
@@ -40,27 +40,8 @@ export const workVideos: WorkVideo[] = [
   },
   {
     id: "work-sound-design",
-    title: "Sound Design & Ambient Foleys Masterclass",
+    title: "Sound Design",
     youtubeUrl: "https://www.youtube.com/embed/qhhP1cf-eVc?si=KbJFDMM1cfywKVXM",
     category: "Sound Design"
-  },
-  {
-    id: "work-story-pacing",
-    title: "Cinematic Rhythm and Speed Pacing Cut",
-    youtubeUrl: "https://www.youtube.com/embed/-umfFjyu6gQ?si=H9tB5YS_-CBXoZVE",
-    category: "Story & Pacing"
-  },
-  {
-    id: "work-trading",
-    title: "Trading & Finance Edit Showcase",
-    youtubeUrl: "https://youtu.be/IochqVuZxQI",
-  
-    category: "Trading"
-  },
-  {
-    id: "work-others",
-    title: "Experimental Visual collage and Montage",
-    youtubeUrl: "https://youtu.be/DL0P-U5PvQ0?si=nvU8Ni_BLckzJIIe",
-    category: "more"
   }
 ];

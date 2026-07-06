@@ -7,11 +7,11 @@ export interface MotionProject {
 export const motionProjects: MotionProject[] = [
   {
     id: "motion-1",
-    youtubeUrl: "https://www.youtube.com/embed/nUb6kA8Em-Y?si=Ipu87qJJxcdEFXNP"
+    youtubeUrl: "https://www.youtube.com/embed/gFS5nlV4jYg?si=OVigU-LGYigw1S3M"
   },
   {
     id: "motion-2",
-    youtubeUrl: "https://youtube.com/shorts/NjhTqHT1sfk?feature=share"
+    youtubeUrl: "https://www.youtube.com/embed/nUb6kA8Em-Y?si=Ipu87qJJxcdEFXNP"
   },
   {
     id: "motion-3",
