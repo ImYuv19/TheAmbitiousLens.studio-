@@ -17,10 +17,10 @@ export const getYoutubeId = (url: string): string => {
 export const shortFormVideos: ShortFormVideo[] = [
   {
     id: "sf-1",
-    title: "AI agents for companies",
-    youtubeUrl: "https://youtube.com/shorts/xuf37gTcUoQ",
-    category: "brand video",
-    duration: "1:19"
+    title: "Mathematician Story",
+    youtubeUrl: "https://youtube.com/shorts/Se7stErAUws?feature=share",
+    category: "motion design",
+    duration: "1:00"
   },
   {
     id: "sf-2",
