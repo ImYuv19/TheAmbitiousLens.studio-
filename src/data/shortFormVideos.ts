@@ -31,10 +31,10 @@ export const shortFormVideos: ShortFormVideo[] = [
   },
   {
     id: "sf-3",
-    title: "AI",
-    youtubeUrl: "https://youtube.com/shorts/3JR1yBCJS8w?feature=share",
-    category: "motion graphics",
-    duration: "0:26"
+    title: "Brand collabration video for creator ",
+    youtubeUrl: "https://www.youtube.com/shorts/ZnkmqKbtWTw",
+    category: "narration video",
+    duration: "0:48"
   },
   {
     id: "sf-4",
