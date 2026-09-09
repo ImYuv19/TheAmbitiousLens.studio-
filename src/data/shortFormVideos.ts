@@ -32,7 +32,7 @@ export const shortFormVideos: ShortFormVideo[] = [
   {
     id: "sf-3",
     title: "Brand collabration video for creator ",
-    youtubeUrl: "https://www.youtube.com/shorts/ZnkmqKbtWTw",
+    youtubeUrl: "https://youtube.com/shorts/kdVeawkIBcI?si=bOKJZLi_XL0GYxxt",
     category: "narration video",
     duration: "0:48"
   },
